@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Muresan_Andrei_Cristian_Lab8Context"
+    }
+  }
+}
